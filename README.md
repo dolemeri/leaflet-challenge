@@ -2,7 +2,7 @@
 
 ### Module 15 Mapping
 
-### belly-button-challenge
+### leaflet-challenge
 
 ### Background
 
