@@ -1,6 +1,6 @@
 #  UofT - Data Analysis Boot Camp
 
-### Module 14 Interactive Visualization
+### Module 15 Mapping
 
 ### belly-button-challenge
 
